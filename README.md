@@ -4,4 +4,4 @@
 - :computer: python
 - :email: wnsgud6232@naver.com
 - :beer: I love it:heart:
-- !
+- study algorithm!
