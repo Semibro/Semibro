@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Semibro&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### BOJ / Solved.ac
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgud6232)](https://solved.ac/wnsgud6232)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgud6232)](https://solved.ac/wnsgud6232) <img src="http://mazandi.herokuapp.com/api?handle=wnsgud6232&theme=warm"/>
 ### Junior Developer
   - I am learning development using Python.
 
