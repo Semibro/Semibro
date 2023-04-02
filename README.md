@@ -9,3 +9,5 @@
 ### Interest
   - Data Science / ML / DL (image classfication)
   - Optimal Solution Algorithm
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://Semibro.github.io/)](https://Seminbro.github.io/)
