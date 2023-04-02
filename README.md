@@ -11,3 +11,4 @@
   - Optimal Solution Algorithm
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://Semibro.github.io/)](https://Seminbro.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wnsgud6232@gmail.com)](mailto:wnsgud6232@gmail.com)
