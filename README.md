@@ -1,4 +1,4 @@
-# Hi:hand:  Welcome to my page!
+# :hand:  Welcome to my page!
 
 ### Junior Developer
   - I am learning development using Python.
