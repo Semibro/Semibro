@@ -1,6 +1,6 @@
 # :hand:  Welcome to my page!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Semibro)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Semibro&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### Junior Developer
   - I am learning development using Python.
 
