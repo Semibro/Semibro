@@ -17,4 +17,3 @@
 <a href="https://blog.naver.com/wnsgud6232">
   <img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/>
 </a>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wnsgud6232@gmail.com)](mailto:wnsgud6232@gmail.com)
