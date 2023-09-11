@@ -8,6 +8,13 @@
 
 <br>
 
+<h2>Github Analytics</h2>
+
+<div>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Semibro&show_icons=true&count_private=true&theme=flag-india"/>
+<img height="500em" src="./profile-3d-contrib/profile-green-animate.svg"/>
+</div>
+
 ## :sparkles: BOJ / Solved.ac :sparkles:
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgud6232)](https://solved.ac/wnsgud6232) <img src="http://mazandi.herokuapp.com/api?handle=wnsgud6232&theme=warm"/>
