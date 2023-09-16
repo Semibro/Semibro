@@ -25,7 +25,9 @@
 ## :sparkles: Diary :sparkles:
 
 <a href="https://blog.naver.com/wnsgud6232">
+
   <img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/>
+  
 </a>
 
 <br>
