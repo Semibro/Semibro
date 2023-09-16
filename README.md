@@ -12,8 +12,7 @@
 
 ## :sparkles: BOJ / Solved.ac :sparkles:
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgud6232)](https://solved.ac/wnsgud6232) <img src="http://mazandi.herokuapp.com/api?handle=wnsgud6232&theme=warm"/>
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgud6232)](https://solved.ac/wnsgud6232) 
 <br>
 
 ## :sparkles: Tech Stack :sparkles:
