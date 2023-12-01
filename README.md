@@ -12,9 +12,9 @@
 
 ## :sparkles: Tech Stacks :sparkles:
 
-<div style="display: flex; flex-direction: row">
+<div style="display: flex; flex-direction: row;">
   <div>
-    ### Language
+    ## Language
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
