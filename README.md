@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JunHyungKim&fontSize=90)
 
-## :sparkles: GITHUB Analytic :sparkles:
+## ✨ GITHUB Analytic ✨
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSemibro&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_for-the-badge=false)](https://hits.seeyoufarm.com)
 
@@ -10,7 +10,7 @@
 
 <br>
 
-## :sparkles: Tech Stacks :sparkles:
+## ✨ Tech Stacks ✨
 
 <div style="display: flex; flex-direction: row;">
   <div>
@@ -41,13 +41,13 @@
 
 <br>
 
-## :sparkles: Cowork Tools :sparkles:
+## ✨ Cowork Tools ✨
 
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>
 
 <br>
 
-## :sparkles: Diary :sparkles:
+## ✨ Diary ✨
 
 <a href="https://blog.naver.com/wnsgud6232">
   <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>
@@ -55,7 +55,7 @@
 
 <br>
 
-## :sparkles: BOJ / Solved.ac :sparkles:
+## ✨ BOJ / Solved.ac ✨
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgud6232)](https://solved.ac/wnsgud6232)
 
