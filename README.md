@@ -88,8 +88,6 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgud6232)](https://solved.ac/wnsgud6232)
 
-</div>
-
 <br>
 
 ## ✨ 일기 ✨
@@ -97,3 +95,5 @@
 <a href="https://blog.naver.com/wnsgud6232">
   <img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/>
 </a>
+
+</div>
