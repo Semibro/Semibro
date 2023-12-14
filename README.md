@@ -2,6 +2,18 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JunHyungKim&fontSize=90)
 
+<br />
+
+#### 협업의 중요성을 알기에 커뮤니케이션을 위해 노력합니다.
+
+#### 실제 사용자의 피드백을 바탕으로 더 나은 서비스를 고민합니다.
+
+#### 새로운 기술을 배우는 것을 좋아하고 적용해보는 것을 목표로 합니다.
+
+#### 기록의 중요성을 알기에 최소단위 커밋을 통해 개발 진행상황을 상세하게 기록합니다.
+
+#### 글을 적는 것을 좋아해 블로그에 간단한 일상 글을 남기면서 스트레스틑 해소합니다.
+
 ## ✨ 깃허브 활용정도 ✨
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSemibro&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
