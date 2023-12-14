@@ -21,14 +21,14 @@
 	</thead>
 	 <tbody>
 		 <tr>
-			<td>
+			<td width="300">
 				<img src="https://img.shields.io/badge/-JavaScript-202020?style=for-the-badge&logo=javascript" height="25" />
 				<img src="https://img.shields.io/badge/-Python-202020?style=for-the-badge&logo=python" height="25" />
 				<img src="https://img.shields.io/badge/-TypeScript-202020?style=for-the-badge&logo=typescript" height="25" />
 				<img src="https://img.shields.io/badge/-HTML5-202020?style=for-the-badge&logo=html5" height="25" />
 				<img src="https://img.shields.io/badge/-CSS-202020?style=for-the-badge&logo=css3" height="25" />
 			</td>
-			<td>
+			<td width="300">
 			  <img src="https://img.shields.io/badge/-React-202020?style=for-the-badge&logo=react" height="25" />
 			  <img src="https://img.shields.io/badge/-Recoil-202020?style=for-the-badge&logo=recoil" height="25" />
 			  <img src="https://img.shields.io/badge/-Redux-202020?style=for-the-badge&logo=redux" height="25" />
@@ -47,7 +47,7 @@
 	</thead>
  <tbody>
 	 <tr>
-		<td>
+		<td width="300">
 		  <img src="https://img.shields.io/badge/-React_Native-202020?style=for-the-badge&logo=react" height="25" />
 		  <img src="https://img.shields.io/badge/-Vue-202020?style=for-the-badge&logo=vue.js" height="25" />
 		  <img src="https://img.shields.io/badge/-Three.js-202020?style=for-the-badge&logo=three.js" height="25" />
@@ -57,7 +57,7 @@
       <img src="https://img.shields.io/badge/-TENSORFLOW-202020?style=for-the-badge&logo=tensorflow" height="25" />
       <img src="https://img.shields.io/badge/-PYTORCH-202020?style=for-the-badge&logo=pytorch" height="25" />
 		</td>
-		<td>
+		<td width="300">
 			<img src="https://img.shields.io/badge/-GitHub-202020?style=for-the-badge&logo=github" height="25" />
 			<img src="https://img.shields.io/badge/-Jira-202020?style=for-the-badge&logo=jira" height="25" />
 			<img src="https://img.shields.io/badge/-Figma-202020?style=for-the-badge&logo=figma" height="25" />
@@ -75,7 +75,7 @@
 		<td><b>기타 툴</b></td>
 	</tr>
 		<tr>
-			<td>
+			<td width="300">
 			  <img src="https://img.shields.io/badge/-Arduino-202020?style=for-the-badge&logo=arduino" height="25" />
 			</td>
 		</tr>
