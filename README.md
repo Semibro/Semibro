@@ -62,7 +62,7 @@
 
 ## ✨ 일기장 ✨
 
-<a href="https://blog.naver.com/wnsgud6232">
+<a href="https://blog.naver.com/socket_daily">
   <img src="https://img.shields.io/badge/-BLOG-202020?style=for-the-badge&logo=naver" height="25" />
 </a>
 
