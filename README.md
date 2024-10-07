@@ -62,8 +62,6 @@
 			<img src="https://img.shields.io/badge/-GitHub-202020?style=for-the-badge&logo=github" height="25" />
 			<img src="https://img.shields.io/badge/-Jira-202020?style=for-the-badge&logo=jira" height="25" />
 			<img src="https://img.shields.io/badge/-Slack-202020?style=for-the-badge&logo=slack" height="25" />
-			
-		</td>
 	 </tr>
  </tbody>
 </table>
