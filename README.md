@@ -58,19 +58,6 @@
  </tbody>
 </table>
 
-<table>
-	<thead>
-		<tr border: none;>
-		<td><b>기타 툴</b></td>
-	</tr>
-		<tr>
-			<td>
-			  <img src="https://img.shields.io/badge/-Arduino-202020?style=for-the-badge&logo=arduino" height="25" />
-			</td>
-		</tr>
-	</thead>	
-</table>
-
 <br>
 
 ## ✨ 일상 브로그 ✨
