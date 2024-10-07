@@ -75,9 +75,8 @@
 			<img src="https://img.shields.io/badge/-GitHub-202020?style=for-the-badge&logo=github" height="25" />
 			<img src="https://img.shields.io/badge/-Jira-202020?style=for-the-badge&logo=jira" height="25" />
 			<img src="https://img.shields.io/badge/-Figma-202020?style=for-the-badge&logo=figma" height="25" />
-			<img src="https://img.shields.io/badge/-GitLab-202020?style=for-the-badge&logo=gitlab" height="25" />
 			<img src="https://img.shields.io/badge/-Notion-202020?style=for-the-badge&logo=notion" height="25" />
-			<img src="https://img.shields.io/badge/-Mattermost-202020?style=for-the-badge&logo=mattermost" height="25" />
+			<img src="https://img.shields.io/badge/-Slack-202020?style=for-the-badge&logo=slack" height="25" />
 		</td>
 	 </tr>
  </tbody>
