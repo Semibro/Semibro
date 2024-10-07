@@ -33,7 +33,6 @@
 			</td>
 			<td width="500">
 			  <img src="https://img.shields.io/badge/-React-202020?style=for-the-badge&logo=react" height="25" />
-			  <img src="https://img.shields.io/badge/-Nest-202020?style=for-the-badge&logo=nestjs" height="25" />
 			</td>
 		 </tr>
 	 </tbody>
@@ -49,14 +48,7 @@
  <tbody>
 	 <tr>
 		<td width="500">
-		  <img src="https://img.shields.io/badge/-React_Native-202020?style=for-the-badge&logo=react" height="25" />
-		  <img src="https://img.shields.io/badge/-Vue-202020?style=for-the-badge&logo=vue.js" height="25" />
-		  <img src="https://img.shields.io/badge/-Three.js-202020?style=for-the-badge&logo=three.js" height="25" />
-		  <img src="https://img.shields.io/badge/-R3F-202020?style=for-the-badge&logo=three.js" height="25" />
-		  <img src="https://img.shields.io/badge/-SCSS-202020?style=for-the-badge&logo=sass" height="25" />
-		  <img src="https://img.shields.io/badge/-Django-202020?style=for-the-badge&logo=django" height="25" />
-      <img src="https://img.shields.io/badge/-TENSORFLOW-202020?style=for-the-badge&logo=tensorflow" height="25" />
-      <img src="https://img.shields.io/badge/-PYTORCH-202020?style=for-the-badge&logo=pytorch" height="25" />
+		  	<img src="https://img.shields.io/badge/-Nest-202020?style=for-the-badge&logo=nestjs" height="25" />
 		</td>
 		<td width="500">
 			<img src="https://img.shields.io/badge/-GitHub-202020?style=for-the-badge&logo=github" height="25" />
