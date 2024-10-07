@@ -73,13 +73,7 @@
 
 <br>
 
-## ✨ 알고리즘[백준] ✨
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgud6232)](https://solved.ac/wnsgud6232)
-
-<br>
-
-## ✨ 일기 ✨
+## ✨ 일상 브로그 ✨
 
 <a href="https://blog.naver.com/wnsgud6232">
   <img src="https://img.shields.io/badge/-BLOG-202020?style=for-the-badge&logo=naver" height="25" />
