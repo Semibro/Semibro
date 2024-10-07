@@ -33,7 +33,7 @@
 			</td>
 			<td width="500">
 			  <img src="https://img.shields.io/badge/-React-202020?style=for-the-badge&logo=react" height="25" />
-			  <img src="https://img.shields.io/badge/-Nest-#E0234E?style=for-the-badge&logo=nestjs" height="25" />
+			  <img src="https://img.shields.io/badge/-Nest-202020?style=for-the-badge&logo=nestjs" height="25" />
 			</td>
 		 </tr>
 	 </tbody>
