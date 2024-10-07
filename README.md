@@ -60,7 +60,7 @@
 
 <br>
 
-## ✨ 일상 브로그 ✨
+## ✨ 일기장 ✨
 
 <a href="https://blog.naver.com/wnsgud6232">
   <img src="https://img.shields.io/badge/-BLOG-202020?style=for-the-badge&logo=naver" height="25" />
