@@ -43,7 +43,7 @@
 		  	<img src="https://img.shields.io/badge/-Nest-202020?style=for-the-badge&logo=nestjs" height="25" />
 		</td>
 		<td width="500">
-			<img src="https://img.shields.io/badge/-AWS-202020?style=for-the-badge&logo=aws" height="25" />
+			<img src="https://img.shields.io/badge/-AWS-202020?style=for-the-badge&logo=amazonwebservices" height="25" />
 			<img src="https://img.shields.io/badge/-GitHub-202020?style=for-the-badge&logo=github" height="25" />
 			<img src="https://img.shields.io/badge/-Jira-202020?style=for-the-badge&logo=jira" height="25" />
 			<img src="https://img.shields.io/badge/-Slack-202020?style=for-the-badge&logo=slack" height="25" />
