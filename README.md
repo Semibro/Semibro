@@ -34,7 +34,7 @@
 	<thead>
 		<tr border: none;>
 			<td><b>활용 가능한 프레임워크</b></td>
-			<td><b>프로젝트 관리 & 협업 툴</b></td>
+			<td><b>기타</b></td>
 		</tr>
 	</thead>
  <tbody>
