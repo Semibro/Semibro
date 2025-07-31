@@ -53,7 +53,7 @@
 
 <br>
 
-## ✨ 잔디를 깔아보자 ✨
+## ✨ 개발 현황 ✨
 
 ![3d-asset](./profile-3d-contrib/profile-south-season-animate.svg)
 
