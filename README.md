@@ -50,7 +50,7 @@
 		<td width="500">
 			<img src="https://img.shields.io/badge/-PostgreSQL-202020?style=for-the-badge&logo=postgresql" height="25" />
 			<img src="https://img.shields.io/badge/-AWS-202020?style=for-the-badge&logo=amazonwebservices" height="25" />
-			<img src="https://img.shields.io/badge-Linux-202020?style=for-the-badge&logo=linux" height="25" />
+			<img src="https://img.shields.io/badge/-Linux-202020?style=for-the-badge&logo=linux" height="25" />
 	 </tr>
  </tbody>
 </table>
