@@ -21,6 +21,7 @@
 		 <tr>
 			<td width="500">
 				<img src="https://img.shields.io/badge/-TypeScript-202020?style=for-the-badge&logo=typescript" height="25" />
+				<img src="https://img.shields.io/badge/-JavaScript-202020?style=for-the-badge&logo=javascript" height="25" />
 				<img src="https://img.shields.io/badge/-Python-202020?style=for-the-badge&logo=python" height="25" />
 			</td>
 			<td width="500">
