@@ -13,8 +13,8 @@
 <table>
 	<thead>
 		<tr border: none;>
-		<td><b>주로 사용하는 프로그래밍 언어</b></td>
-		<td><b>자주 활용하는 프레임워크</b></td>
+		<td><b>LANGUAGE</b></td>
+		<td><b>FRAMEWORK</b></td>
 		</tr>
 	</thead>
 	 <tbody>
@@ -25,6 +25,7 @@
 			</td>
 			<td width="500">
 			  <img src="https://img.shields.io/badge/-React-202020?style=for-the-badge&logo=react" height="25" />
+			  <img src="https://img.shields.io/badge/-Nest-202020?style=for-the-badge&logo=nestjs" height="25" />
 			</td>
 		 </tr>
 	 </tbody>
@@ -33,20 +34,23 @@
 <table>
 	<thead>
 		<tr border: none;>
-			<td><b>활용 가능한 프레임워크</b></td>
-			<td><b>기타</b></td>
+			<td><b>TOOL</b></td>
+			<td><b>ETC</b></td>
 		</tr>
 	</thead>
  <tbody>
 	 <tr>
 		<td width="500">
-		  	<img src="https://img.shields.io/badge/-Nest-202020?style=for-the-badge&logo=nestjs" height="25" />
-		</td>
-		<td width="500">
-			<img src="https://img.shields.io/badge/-AWS-202020?style=for-the-badge&logo=amazonwebservices" height="25" />
-			<img src="https://img.shields.io/badge/-GitHub-202020?style=for-the-badge&logo=github" height="25" />
+		  	<img src="https://img.shields.io/badge/-GitHub-202020?style=for-the-badge&logo=github" height="25" />
 			<img src="https://img.shields.io/badge/-Jira-202020?style=for-the-badge&logo=jira" height="25" />
 			<img src="https://img.shields.io/badge/-Slack-202020?style=for-the-badge&logo=slack" height="25" />
+			<img src="https://img.shields.io/badge/-Notion-202020?style=for-the-badge&logo=notion" height="25" />
+			<img src="https://img.shields.io/badge/-Figma-202020?style=for-the-badge&logo=figma" height="25" />
+		</td>
+		<td width="500">
+			<img src="https://img.shields.io/badge/-PostgreSQL-202020?style=for-the-badge&logo=postgresql" height="25" />
+			<img src="https://img.shields.io/badge/-AWS-202020?style=for-the-badge&logo=amazonwebservices" height="25" />
+			<img src="https://img.shields.io/badge-Linux-202020?style=for-the-badge&logo=linux" height="25" />
 	 </tr>
  </tbody>
 </table>
